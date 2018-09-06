@@ -1,1 +1,2 @@
 # Capstone
+For Codecademy exercises
